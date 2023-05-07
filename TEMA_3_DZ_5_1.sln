@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEMA_3_DZ_5_1", "TEMA_3_DZ_5_1\TEMA_3_DZ_5_1.csproj", "{A9FFB01D-90E8-44B6-A97B-4E6F3F1B32F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEMA_3_DZ_5_1_Library", "..\TEMA_3_DZ_5_1_Library\TEMA_3_DZ_5_1_Library\TEMA_3_DZ_5_1_Library.csproj", "{BCF86A91-F28E-4D99-99E3-CE4FB8E36D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9FFB01D-90E8-44B6-A97B-4E6F3F1B32F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FFB01D-90E8-44B6-A97B-4E6F3F1B32F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FFB01D-90E8-44B6-A97B-4E6F3F1B32F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FFB01D-90E8-44B6-A97B-4E6F3F1B32F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF86A91-F28E-4D99-99E3-CE4FB8E36D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF86A91-F28E-4D99-99E3-CE4FB8E36D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF86A91-F28E-4D99-99E3-CE4FB8E36D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF86A91-F28E-4D99-99E3-CE4FB8E36D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {487892BF-B047-4050-ADC0-B63B103342B7}
+	EndGlobalSection
+EndGlobal
